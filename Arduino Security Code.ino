@@ -3,7 +3,7 @@
  * June 18 2021
  */
 
-// include all API
+// include all Libraries
 #include <Keypad.h>
 #include <Servo.h> 
 #include <LiquidCrystal.h>
